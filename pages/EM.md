@@ -1,0 +1,9 @@
+- > Expectation-maximization (EM) algorithm is an **iterative computational method** to calculate the maximum likelihood estimators ([[MLEs]]) from the sample data
+- Research
+	- Keywords
+	- Intro
+	- Contributions
+		- E.g Gaussian Mixture Models ([[GMM]])
+	- Related works
+	- Vocab
+-

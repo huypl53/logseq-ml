@@ -1,0 +1,2 @@
+- > are a method of estimating the parameters of a statistical model by **maximizing the likelihood function**. The likelihood function measures how well the model explains the observed data for a given set of parameters.
+-
